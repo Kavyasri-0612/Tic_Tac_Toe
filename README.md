@@ -133,8 +133,4 @@ Player O's turn (AI is thinking...)
 - A generalized `N x N` board size, since the current win-condition list is hardcoded for 3x3
 - A simple web version (Flask/FastAPI + JS frontend) reusing the same `board.py` / `player.py` core, to prove the decoupling claim across a third interface type
 
----
 
-## License
-
-MIT
